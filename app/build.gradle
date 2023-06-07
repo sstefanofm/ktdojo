@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.helloworld'
+    namespace 'com.example.ktdojo'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.helloworld"
+        applicationId "com.example.ktdojo"
         minSdk 33
         targetSdk 33
         versionCode 1
