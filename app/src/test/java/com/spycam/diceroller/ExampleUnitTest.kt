@@ -1,4 +1,4 @@
-package com.example.ktdojo
+package com.spycam.diceroller
 
 import org.junit.Test
 

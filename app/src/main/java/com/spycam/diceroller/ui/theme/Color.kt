@@ -1,4 +1,4 @@
-package com.example.ktdojo.ui.theme
+package com.spycam.diceroller.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.ktdojo'
+    namespace 'com.spycam.diceroller'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.ktdojo"
+        applicationId "com.spycam.diceroller"
         minSdk 33
         targetSdk 33
         versionCode 1
