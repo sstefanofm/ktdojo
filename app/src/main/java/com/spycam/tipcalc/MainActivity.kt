@@ -47,11 +47,11 @@ class MainActivity : ComponentActivity() {
         setContent {
             TipCalcTheme {
                 // A surface container using the 'background' color from the theme
-                Surface(
+                Surface (
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    TipTimeLayout()
+                    TipTimeLayout ()
                 }
             }
         }
@@ -75,7 +75,7 @@ private fun calculateTip(
 
 @Preview
 @Composable
-fun TipTimeLayout() {
+fun TipTimeLayout (): Unit {
     var amountInput by remember { mutableStateOf("") }
     var tipInput by remember { mutableStateOf("") }
     var roundUp by remember { mutableStateOf(false) }
