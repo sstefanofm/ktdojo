@@ -1,4 +1,4 @@
-package com.spycam.diceroller.ui.theme
+package com.spycam.tipcalc.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

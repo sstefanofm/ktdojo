@@ -1,4 +1,4 @@
-package com.spycam.diceroller
+package com.spycam.tipcalc
 
 import org.junit.Test
 

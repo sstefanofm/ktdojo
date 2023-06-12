@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.spycam.diceroller'
+    namespace 'com.spycam.tipcalc'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.spycam.diceroller"
+        applicationId "com.spycam.tipcalc"
         minSdk 33
         targetSdk 33
         versionCode 1
